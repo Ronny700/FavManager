@@ -50,14 +50,23 @@ Eles servem como referência de como ficam os dados gerados.
 
 1. Clone o repositório:
   
-   git clone https: 
+   git clone https://github.com/Ronny700/FavManager.git
    cd FavManager
    
 Instale as dependências:
 pip install customtkinter pandas openpyxl
 
 Execute o programa:
-python app.py
+python FavManager.py
+
+Como usar
+
+1. Abra o programa (FavManager.py).
+2. Use os botões da interface para adicionar, editar ou Remover filmes.
+3. Salve automaticamente em filmes.json.
+4. Use o menu para Exportar ou Importar dados nos formatos suportados.
+5. Aproveite sua lista organizada de filmes!
+
 
  ## Em Execução
  <img width="1011" height="796" alt="image" src="https://github.com/user-attachments/assets/45ff1e05-9aae-4116-ba81-4311c2126fa8" />
