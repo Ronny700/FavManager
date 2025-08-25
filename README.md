@@ -38,9 +38,9 @@ Na pasta `exemplos/` você encontra arquivos já exportados pelo sistema, como:
 Eles servem como referência de como ficam os dados gerados.
 
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
-- [Python 3](https://www.python.org/)
+- [Python 3](https://www.python.org/)  Python 3.8+ é recomendado.
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 - [Pandas](https://pandas.pydata.org/)  
 - Tkinter (nativo do Python)
