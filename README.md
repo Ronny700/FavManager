@@ -60,7 +60,8 @@ Execute o programa:
 python app.py
 
  ## Em Execução
- <img width="1021" height="814" alt="image" src="https://github.com/user-attachments/assets/7d4dcf03-86d1-4e0a-b575-a7970223245a" />
+ <img width="1011" height="796" alt="image" src="https://github.com/user-attachments/assets/45ff1e05-9aae-4116-ba81-4311c2126fa8" />
+
  
 
 # Observações
